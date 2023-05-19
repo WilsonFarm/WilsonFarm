@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact **Game🎮**
 
+- 💼 My Portfolio file **<a href="https://github.com/WilsonFarm/WilsonFarm/blob/main/Portfolio%20.pptx">Portfolio</a>**
 <p align="left">
 </p>
 
