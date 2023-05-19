@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">I'm Unity Developer</h3>
+![alt text](https://github.com/WilsonFarm/WilsonFarm/blob/main/game.png?raw=true)
 
 - 🌱 I’m currently learning **Unity optimization**
 
